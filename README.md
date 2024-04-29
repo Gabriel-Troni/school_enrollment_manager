@@ -5,7 +5,7 @@ This personal project simulates a university system for creating and managing st
 - Ruby
 
 ## Features
-- Object-Oriented paradigma
+- Object-Oriented paradigm
 - Student registration
 - Enrollment management
 - Cancellation of enrollments
