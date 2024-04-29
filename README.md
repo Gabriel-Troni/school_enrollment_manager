@@ -13,10 +13,6 @@ This personal project simulates a university system for creating and managing st
 
 ## Screenshots
 <div style="display: flex;">
-  <img src="./assets/Images/screen2.PNG" alt="Screen print 2" style="width: 40%">
-  <img src="./assets/Images/screen5.PNG" alt="Screen print 5" style="width: 34%">
-  <br>
-  <img src="./assets/Images/screen4.PNG" alt="Screen print 4" style="width: 20%">
-  <img src="./assets/Images/screen1.PNG" alt="Screen print 1" style="width: 60%">
-  <img src="./assets/Images/screen3.PNG" alt="Screen print 3" style="width: 80%">
+  <img src="./screenshots/code.png" alt="Screen print 1" style="width: 40%">
+  <img src="./screenshots/terminal_interface.png" alt="Screen print 2" style="width: 40%">
 </div>
